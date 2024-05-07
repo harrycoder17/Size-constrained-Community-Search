@@ -1,4 +1,4 @@
-Thanks for your attention. This is the source code of our TKDE submission “Size-constrained Community Search on Large Graphs: An Effective and Efficient Solution”.
+Thanks for your attention. This is the source code of our TKDE 2023 “Size-constrained Community Search on Large Graphs: An Effective and Efficient Solution”.
 
 #### Experimental Environment            
 The code can be run on a Linux environment. Our code is compiled on a CentOS Linux (release 7.9.2009) server with GCC 7.5.0.
